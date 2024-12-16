@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE:16.12.2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,9 +59,18 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/f76ef79a-caa7-4e50-9ce6-bc35e8d649ff)
 
-### Name: 
-### Register Number:
+![image](https://github.com/user-attachments/assets/7415a612-0bf8-48d3-9ecd-a3e79e384c10)
+
+![Screenshot 2024-12-16 052335](https://github.com/user-attachments/assets/74980f02-9724-4970-8e26-a9615fe874c4)
+
+![Screenshot 2024-12-16 052430](https://github.com/user-attachments/assets/5274f363-e0a9-4c84-a9ee-fc6ff413bfc3)
+
+![Screenshot 2024-12-16 051909](https://github.com/user-attachments/assets/3e44f4b6-c70b-45ae-8fee-ed9608027d73)
+
+### Name:G.Mithik jain 
+### Register Number:24001881
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
